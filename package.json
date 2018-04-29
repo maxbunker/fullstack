@@ -12,5 +12,14 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxbunker/fullstack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maxbunker/fullstack/issues"
+  },
+  "homepage": "https://github.com/maxbunker/fullstack#readme"
 }
